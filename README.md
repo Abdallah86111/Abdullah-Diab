@@ -1,7 +1,6 @@
 <div align="center" width="50">
-<h1>عبدالله دياب|Abdullah Diab👋</h1>
-<h3>Front-End Developer | Interested in Networking🌐 & Cybersecurity🐧 </h3>
 <img src="https://github.com/Abdallah86111/Abdullah-Diab/blob/b0e22357e96716f410c67dac31d8527ea156f01b/Logo-5-%5Bremix%5D%20(2).gif?raw=true" alt="Hello Coders" width="90%"/> <br>
+<h3>Front-End Developer | Interested in Networking🌐 & Cybersecurity🐧 </h3>
 
 </div>
 
