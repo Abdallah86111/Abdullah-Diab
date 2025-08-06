@@ -28,12 +28,28 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
 ```js
-// Frontend Stack - By Abdullah Diab
+ //Frontend Stack - By Abdullah Diab
 const techStack = {
   languages: ["HTML", "CSS", "JavaScript"],
   frameworks: ["Bootstrap", "React.js"],
   tools: ["Git", "VSCode", "Figma"],
   OS: ["Linux", "Windows"]
 }
+```
+👨‍💻 About Me
+🎓 I'm a student at Ahram Canadian University, Faculty of Computer Science.
+
+💻 Passionate about Frontend Development, especially with React.js.
+
+🌐 Interested in Networking and Cybersecurity.
+
+🐧 I love experimenting with Linux systems.
+
+🧠 Always learning and improving!
+
+<div align="center"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> <details> <summary>📊 More GitHub Stats</summary> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"> </details>
+
+
+🌀 Code Cycle
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" /> </div> ```
