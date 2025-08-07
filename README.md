@@ -25,7 +25,7 @@
 // Frontend & Backend Stack - By Abdullah Diab
 const techStack = {
   languages: ["HTML", "CSS", "JavaScript", "C++", "C#", "Python"],
-  frameworks: [".NET Framework", "Bootstrap", "React.js"],
+  frameworks: [".NET", "Bootstrap", "React.js"],
   tools: ["Git", "VSCode", "Figma"],
   OS: ["Linux", "Windows"]
 }
