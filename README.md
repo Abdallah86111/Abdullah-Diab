@@ -22,7 +22,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ```js
- By Abdullah Diab
+ // By Abdullah Diab
 const techStack = {
   languages: ["HTML", "CSS", "JavaScript", "C++", "C#", "Python"],
   frameworks: [".NET", "Bootstrap", "React.js"],
